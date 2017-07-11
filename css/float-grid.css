@@ -17,8 +17,9 @@
   clear: both;
 }
 
+/* Mobile Defaults */      
   .col-4 {
-    width: 33%;
+    width: 100%;
   }
 
 
@@ -37,7 +38,7 @@
 
   /* 6 columns */
   .col-6 {
-
+      width: 50%;
   }
 
   /* 12 columns */
