@@ -1,7 +1,11 @@
+* { box-sizing: border-box; }
+
+
 header {
     background-color: #eebb44;
 	margin-bottom: 40px;
 }
+
 
 .card {
 
